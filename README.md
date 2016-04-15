@@ -1,2 +1,3 @@
 # leeroy-jenkins
-LEEEEROOOOOY JEEEEENNNNNNNKIIIINNNNSSSS
+
+Leeroy Jenkins - Simple CI App.
